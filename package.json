@@ -1,4 +1,4 @@
-
+{
     "name": "node-app",
     "description": "hello jenkins test app",
     "version": "0.0.1",
@@ -11,4 +11,3 @@
        "supertest": "0.13.0"
     }
    }
-   
